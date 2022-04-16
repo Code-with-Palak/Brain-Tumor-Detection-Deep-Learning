@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 
 
-![Image](https://github.com/Code-with-Palak/Brain-Tumor-Detection-Deep-Learning/edit/main/tumor_sample.png)
+![Image](https://github.com/Code-with-Palak/Brain-Tumor-Detection-Deep-Learning/blob/main/tumor_sample.png)
 
 
 
