@@ -10,7 +10,14 @@ The images in the dataset are not evenly divided into the classes. There are 155
 
 
 🎯 This can be accessed from the link: 
+
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
+
+
 ![Image](https://github.com/Code-with-Palak/Brain-Tumor-Detection-Deep-Learning/edit/main/tumor_sample.png)
+
+
 
 ### Algorithm Used
 
